@@ -3,6 +3,7 @@
 if it’s possible
 """
 
+
 def add_attribute(obj, attribute, value):
     """dds a new attribute"""
     if '__dict__' not in dir(obj):

@@ -2,6 +2,7 @@
 """ Module base geometry
 """
 
+
 class BaseGeometry:
     """ empty class"""
     def area(self):
